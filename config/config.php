@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$db = "db_pkk_ririn";
+$db = "dbkreditkendaraan";
 
 $conn = mysqli_connect($host, $user, $password, $db);
 
